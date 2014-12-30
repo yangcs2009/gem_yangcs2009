@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = GemYangcs2009::VERSION
   spec.authors       = ["yangcs2009"]
   spec.email         = ["yangcs2009@gmail.com"]
-  spec.summary       = %q{Write a short summary. Required.}
+  spec.summary       = %q{A simple hello world}
   spec.description   = %q{Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
